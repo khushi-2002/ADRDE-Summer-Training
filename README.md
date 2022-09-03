@@ -1,0 +1,2 @@
+# ADRDE-Summer-Training
+ADRDE is a pioneer R&amp;D lab of DRDO for the Design and Development of Aerodynamic Decelerators, Aerostat Systems. The charter of duties of the establishment includes development of Paratrooper Parachute Systems, Aircrew Parachute System, Ammunition Parachute System , Brake Parachute, Recovery Parachute System, Aerial Delivery Parachute Systems, Heavy Drop Systems, Inflatable Systems, Airship Technologies and Aircraft Arrester Barrier System etc.
